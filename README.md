@@ -1,1 +1,1 @@
-# odin-recipes
+Odin lesson "Project: Recipes" assignment.
